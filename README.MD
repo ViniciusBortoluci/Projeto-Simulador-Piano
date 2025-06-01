@@ -3,7 +3,7 @@
 Este é um projetinho aprendido no Bootcamp Ri Happy - Front-end do Zero da DIO <br>
 https://web.dio.me/track/coding-future-front-end-do-zero
 
-## Tecnologias usadas
+## Linguagens usadas
 
 - HTML - para estruturação
 - CSS - para estilização 
