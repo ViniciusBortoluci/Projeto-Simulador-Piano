@@ -1,6 +1,6 @@
 # Projeto de Simulador de piano
 
-Este é um projetinho aprendido no Bootcamp Ri Happy - Front-end do Zero da DIO <br>
+Este é um projeto aprendido no Bootcamp Ri Happy - Front-end do Zero da DIO <br>
 https://web.dio.me/track/coding-future-front-end-do-zero
 
 ## Linguagens usadas
